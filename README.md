@@ -1,6 +1,6 @@
 <div align="justify">
   
-# Space-Medical-Monitoring
+# Space Medical Monitoring
 An interactive space crew health monitoring platform built with Python and Streamlit. Features biometric tracking, medical records, radiation monitoring, preventive health analytics, and automated emergency response protocols for space missions.
 ## NASA Space Crew Monitoring System
 ### An Integrated Health Monitoring, Medical Record Management, and Emergency Response Platform for Space Missions
