@@ -42,7 +42,7 @@ The system provides an interactive anatomical interface that allows users to sel
 | Hand	|Temperature and skin symptoms|
 | Leg	|Exercise duration and bone mineral density|
 
-<div > 
+</div>
 
 ### 3. Preventive Health Monitoring
 The platform includes monitoring indicators and reference thresholds for:
@@ -94,6 +94,7 @@ Features include:
 
 ### Technologies Used
 <div align="center"> 
+  
 |Technology	|Purpose|
 |:-----:|:-----:|
 |Python	|Main programming language|
