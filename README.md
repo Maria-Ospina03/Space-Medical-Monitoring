@@ -31,6 +31,7 @@ The platform provides a centralized environment for monitoring crew members, ana
 The system provides an interactive anatomical interface that allows users to select different monitoring zones.
 
 ##### Monitoring Zone	Parameters
+<div align="center"> 
   
 |Body Part| Parameters|
 |:-----:|:-----:|
@@ -40,7 +41,9 @@ The system provides an interactive anatomical interface that allows users to sel
 | Heart	|Heart rate, systolic and diastolic blood pressure, pulse pressure|
 | Hand	|Temperature and skin symptoms|
 | Leg	|Exercise duration and bone mineral density|
-  
+
+<div > 
+
 ### 3. Preventive Health Monitoring
 The platform includes monitoring indicators and reference thresholds for:
 
@@ -90,6 +93,7 @@ Features include:
 * Medical image history.
 
 ### Technologies Used
+<div align="center"> 
 |Technology	|Purpose|
 |:-----:|:-----:|
 |Python	|Main programming language|
@@ -102,6 +106,7 @@ Features include:
 |JSON	|Structured data handling|
 |HTML / CSS	|Interface customization|
 |JavaScript	|Text-to-speech functionality|
+</div>
 
 ###  Technical Approach
 The platform uses a centralized session-state architecture to manage crew information, medical records, mission data, and emergency events.
