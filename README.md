@@ -90,19 +90,27 @@ Features include:
 * Mood and sleep history.
 * Medical image history.
 
-##### Tabla de frecuencias por segmento
-<div align="center">
-  
-|SEGMENTO [-]     |FRECUENCIA MEDIA (MNF) [Hz]     |FRECUENCIA MEDIANA (MDF) [Hz]     |FRECUENCIA PICO [HZ]  |  
-|:-----:|:-----:|:-----:|:-----:|
-|1     |59.00     |36.00     |24.00|     
-|2     |73.31     |51.00     |43.00 |         
-|3     |61.64     |41.00     |27.00  |        
-|4     |72.77     |45.00     |42.00   |       
-|5     |68.84     |42.00     |26.00   |
-</div>
+### Technologies Used
+|Technology	|Purpose|
+|:-----:|:-----:|
+|Python	|Main programming language|
+|Streamlit	|Interactive web application framework|
+|Pandas	|Medical records and data management|
+|NumPy	|Numerical operations|
+|Plotly	|Interactive data visualization|
+|Pillow (PIL)	|Medical and anatomical image processing|
+|Base64	|Image encoding|
+|JSON	|Structured data handling|
+|HTML / CSS	|Interface customization|
+|JavaScript	|Text-to-speech functionality|
 
+###  Technical Approach
+The platform uses a centralized session-state architecture to manage crew information, medical records, mission data, and emergency events.
 
+Biometric measurements are stored in structured Pandas DataFrames, while custom functions extract numerical indicators from recorded metrics and evaluate them against predefined thresholds.
 
+Plotly provides interactive anatomical selection and historical data visualization, while Streamlit manages the application's interface and navigation.
+
+The emergency management module integrates automated alerts with predefined response protocols and structured communication reports.
 
 </div>
