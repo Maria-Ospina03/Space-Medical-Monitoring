@@ -122,12 +122,12 @@ The emergency management module integrates automated alerts with predefined resp
 1) Download the Health Tracking App folder and extract.
 2) Open folder in a Python editor (Vs Code recommended).
 3) Download the necessary libraries. 
-```python
-pip install numpy pandas streamlit plotly 
+```bash
+pip install numpy pandas streamlit plotly pillow
 ```
 4) Save the code.
 5) Run in terminal.
-```python
+```bash
 py -m streamlit run Code.py
 ```
 6) Visualize in browser.
