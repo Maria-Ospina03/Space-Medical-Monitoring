@@ -118,4 +118,13 @@ Plotly provides interactive anatomical selection and historical data visualizati
 
 The emergency management module integrates automated alerts with predefined response protocols and structured communication reports.
 
+### How to use
+1)
+'''python
+pip install numpy pandas streamlit plotly 
+'''
+2)
+
+
+
 </div>
